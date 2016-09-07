@@ -1,5 +1,5 @@
-GitAutoDeploy
-=============
+GitLabAutoDeploy
+================
 简要说明：
 ----
 
@@ -11,3 +11,8 @@ GitAutoDeploy
 注意
 ---
 请确保`url`和`path` 是一样的，否则会同步失败
+
+
+待增加功能
+-----
+* 支持多个repo
