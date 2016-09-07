@@ -1,0 +1,11 @@
+{
+	"repositories":
+	[
+      {
+		"url": "http://git.uzai.com/yandou/GitDeploytest.git",
+		"branch": "master",
+		"remote": "origin",
+		"path": "D:/GitAutoDeploy/uzaicdn"
+	}
+    ]
+}
